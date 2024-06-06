@@ -21,7 +21,7 @@ as a student  and developer, i thrive to be proficient in this skills that i bel
 
 ## Contact
 - Email: [synthia.bassole@yahoo.fr
-- LinkedIn: [linkedin.com/in/synthia-b-2b3334252]
+- LinkedIn: [[linkedin.com/in/synthia-b-2b3334252]](https://www.linkedin.com/in/synthia-b-2b3334252?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBdv19R8xSpKyGg1JyXFyJA%3D%3D)
 
 
 
