@@ -1,14 +1,27 @@
-- 👋 Hi, I’m synthia Bassole 
+# Hi there, I'm Synthia 👋
+
 - 👀 I’m interested in technology, and improving my new aquired skills by staying up to date with new tools, frameworks, and industry trends.
-- 🌱 I’m currently a first year learning front-end development at Noroff digital school in oslo, Norway. as a student  and developer, i thrive to be proficient in this skills that i believe are important to be a good developer, here are the following:
-  Communication: Effective communication with team members and stakeholders.
-  Problem-Solving: Ability to troubleshoot and resolve issues.
-  Time Management : Prioritizing tasks and managing deadlines.
 - 💞️ I’m looking to collaborate on creating : engaging, efficient, well designed responsive web applications.
 - 📫 How to reach me : email: synthia.bassole@yahoo.fr ; linkedIn: Synthia Bassole ; github: synthiab1997 .
-- ⚡ Fun fact: ...
 
-<!---
-synthiab1997/synthiab1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+🌱 I’m currently a first year student learning front-end development at Noroff digital school in oslo, Norway. I am french and have been living in Norway the last 5 years. I graduted with a bachelor in Nordic studies, acquired within the Sorbonne nouvelle univiversity in Paris, France and University of Oslo on an Erasmus exchange program in 2019. 
+
+
+## Skills
+as a student  and developer, i thrive to be proficient in this skills that i believe are important to be a good developer, here are the following:
+- Communication: Effective communication with team members and stakeholders.
+- Problem-Solving: Ability to troubleshoot and resolve issues.
+- Time Management : Prioritizing tasks and managing deadlines.
+
+## Projects
+- [Project 1](link_to_project)
+- [Project 2](link_to_project)
+- [Project 3](link_to_project)
+
+## Contact
+- Email: [synthia.bassole@yahoo.fr
+- LinkedIn: [linkedin.com/in/synthia-b-2b3334252]
+
+
+
