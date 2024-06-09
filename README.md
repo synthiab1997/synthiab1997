@@ -15,9 +15,9 @@ as a student  and developer, i thrive to be proficient in this skills that i bel
 - Time Management : Prioritizing tasks and managing deadlines.
 
 ## Projects
-- [Project 1](link_to_project)
-- [Project 2](link_to_project)
-- [Project 3](link_to_project)
+- [Square eyes]([link_to_project](https://github.com/synthiab1997/html-css-square-eyes-project.git))
+- [Community science museum](https://github.com/synthiab1997/Community-Science-Museum-1.git)
+- [Hot View Labs](https://github.com/NoroffFEU/FED1-PE1-synthiab1997.git)
 
 ## Contact
 - Email: [synthia.bassole@yahoo.fr
