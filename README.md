@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in technology, and improving my new aquired skills by staying up to date with new tools, frameworks, and industry trends.
 - 💞️ I’m looking to collaborate on creating : engaging, efficient, well designed responsive web applications.
-- 📫 How to reach me : email: synthia.bassole@yahoo.fr ; linkedIn: Synthia Bassole ; github: synthiab1997 .
+- 📫 How to reach me : email: synthia.bassole@yahoo.fr ; linkedIn: Synthia Bassole ; github: synthiab1997; Portfolio: https://github.com/synthiab1997/Portfolio.git .
 
 ## About Me
 🌱 I’m currently a first year student learning front-end development at Noroff digital school in oslo, Norway. I am french and have been living in Norway the last 5 years. I graduted with a bachelor in Nordic studies, acquired within the Sorbonne nouvelle univiversity in Paris, France and University of Oslo on an Erasmus exchange program in 2019. 
