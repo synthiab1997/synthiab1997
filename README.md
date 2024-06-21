@@ -20,6 +20,7 @@ as a student  and developer, i thrive to be proficient in this skills that i bel
 - [Hot View Labs](https://github.com/NoroffFEU/FED1-PE1-synthiab1997.git)[https://norofffeu.github.io/FED1-PE1-synthiab1997/index.html]
 
 ## Contact
+-portfolio : https://github.com/synthiab1997/Portfolio.git
 - Email: [synthia.bassole@yahoo.fr
 - LinkedIn: [[linkedin.com/in/synthia-b-2b3334252]](https://www.linkedin.com/in/synthia-b-2b3334252?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBdv19R8xSpKyGg1JyXFyJA%3D%3D)
 
